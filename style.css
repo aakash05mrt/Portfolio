@@ -506,6 +506,8 @@ section .title::after{
 .contact .contact-content .row i{
     font-size: 25px;
     color: crimson;
+    position:relative;
+    bottom: -30px;
 }
 .contact .contact-content .info .head{
     font-weight: 500;
